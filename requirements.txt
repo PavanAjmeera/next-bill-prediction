@@ -1,0 +1,10 @@
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.5
+lightgbm>=4.3
+joblib>=1.3
+streamlit>=1.50
+plotly>=5.22
+ipykernel>=6.29
+pytest>=8.0
+ruff>=0.5
